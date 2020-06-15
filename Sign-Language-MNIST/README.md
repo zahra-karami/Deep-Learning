@@ -11,9 +11,8 @@ A robust visual recognition algorithm can help the deaf and hard-of-hearing bett
 
     </div>
     <div>
-        <b>  Dataset</b>
-     
-        < a href='https://www.kaggle.com/datamunge/sign-language-mnist' >https://www.kaggle.com/datamunge/sign-language-mnist</a>
+        <b>  Dataset</b>     
+        < a href="https://www.kaggle.com/datamunge/sign-language-mnist" >https://www.kaggle.com/datamunge/sign-language-mnist</a>
 Description:<hr/>
 In dataset. each training and test case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because of gesture motions). The dataset consists 34627 samples which represent a single 28x28 pixel image with grayscale values between 0-255.
 
